@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Expensooze</string>
+
+    <string name="addBill_prompt">Choose Bill Type</string>
+
+    <string-array name="addbill_drop">
+        <item>Electricity</item>
+        <item>Water</item>
+        <item>Telephone</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string name="addMonth_prompt">Choose Month</string>
+    <string-array name="month_drop">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+    </string-array>
+
+    <string-array name="year_drop">
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+    </string-array>
+
+    <string-array name="day_drop">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
